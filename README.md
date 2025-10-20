@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+My expertise includes HTML, CSS, JavaScript, React.js, and WordPress, as well as building reusable components, optimizing performance, and developing SEO-friendly websites. I also have experience in freelance web and mobile application development, social media management, and IT hardware.
+
 <!--
 **bishop7js/bishop7js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
