@@ -13,11 +13,15 @@ I'm Sulakshitha, I try to create a better environment to live, by using software
 
 **Projects & Contributions:**
 
-🚀 App Name – IPOSG Cloud
+1. IPOSG Cloud
 
 🔗 Google Play: https://play.google.com/store/apps/details?id=com.iposg.iposgcloud&pcampaignid=web_share
 
 
 🍏 App Store: https://apps.apple.com/lk/app/iposg-cloud/id1484964726
 
+
+2. Predictive Analytics Platform for Organic Cultivation Management using Machine Learning and Blockchain
+
+📚 ResearchGate: https://www.researchgate.net/publication/337534519_Predictive_Analytics_Platform_for_Organic_Cultivation_Management
 
