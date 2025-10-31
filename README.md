@@ -4,7 +4,7 @@ I'm Sulakshitha, I try to create a better environment to live, by using software
 
 Read Here:
 
-📚 https://medium.com/
+📚 https://medium.com/@maneshrathnayakeit
 
 
 Watch here:
