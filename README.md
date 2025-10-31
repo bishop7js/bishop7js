@@ -27,3 +27,8 @@ I'm Sulakshitha, I try to create a better environment to live, by using software
 
 📚 ResearchGate: https://www.researchgate.net/publication/337534519_Predictive_Analytics_Platform_for_Organic_Cultivation_Management
 
+
+**Connect & Explore More Projects:**  
+
+💼 https://www.linkedin.com/in/sulakshitha-rathnayake-ab0360196/
+
