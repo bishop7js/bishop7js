@@ -9,7 +9,7 @@ Read Here:
 
 Watch here:
 
-📺 https://www.youtube.com/@simpleexplorer_
+📺 https://youtube.com/@simpleexplorer_?si=ohbd7Q20swc_ISTM
 
 
 
