@@ -22,8 +22,12 @@ I'm Sulakshitha, I try to create a better environment to live, by using software
 
 💻 Web: https://cloud.iposg.com/login
 
+**2. Reads and Reels**
 
-**2. Predictive Analytics Platform for Organic Cultivation Management using Machine Learning and Blockchain**
+💻 Web: https://readsandreels.vercel.app/
+
+
+**3. Predictive Analytics Platform for Organic Cultivation Management using Machine Learning and Blockchain**
 
 📚 ResearchGate: https://www.researchgate.net/publication/337534519_Predictive_Analytics_Platform_for_Organic_Cultivation_Management
 
